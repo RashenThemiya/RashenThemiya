@@ -1,89 +1,67 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&height=60&lines=Hey!+I'm+Rashen+Themiya+👋;Software+Engineer+%7C+Tech+Enthusiast+🚀;Building+Smart+&+Scalable+Systems" />
+</h1>
 
-# mhart_s_application1
-### Table of contents
-- [System requirements](#system-requirements)
-- [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
-- [Check the UI of the entire app](#app-navigations)
-- [Facebook authentication configuration](#facebook-authentication-configuration)
-- [Application structure](#project-structure)
-- [How to format your code?](#how-you-can-do-code-formatting)
-- [How you can improve code readability?](#how-you-can-improve-the-readability-of-code)
-- [Libraries and tools used](#libraries-and-tools-used)
-- [Support](#support)
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>  
+  <strong>Welcome to my GitHub Profile!</strong>  
+</p>
 
-### System requirements
+---
 
-Dart SDK Version 2.18.0 or greater.
-Flutter SDK Version 3.3.0 or greater.
+## 🎨 **About Me**
+🌱 Passionate about **AI, Web Development, and Problem Solving**  
+🚀 Building innovative solutions to make an impact  
+💡 Exploring **Cloud, DevOps, and AI**  
+🎯 Currently working on: **Smart System for Dambulla Economic Center**  
 
-### Figma design guidelines for better UI accuracy
+---
 
-Read our guidelines to increase the accuracy of design-to-code conversion by optimizing Figma designs.
-https://docs.dhiwise.com/docs/Designguidelines/intro
+## 🏆 **GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RashenThemiya&theme=radical&column=7&margin-w=10&margin-h=10">
+</p>
 
-### Check the UI of the entire app
+---
 
-Check the UI of all the app screens from a single place by setting up the 'initialRoute'  to AppNavigation in the AppRoutes.dart file.
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RashenThemiya&show_icons=true&theme=radical" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashenThemiya&theme=dark" width="50%">
+</p>
 
-### Facebook authentication configuration
+---
 
-Steps:
-- Follow the steps on https://pub.dev/packages/flutter_login_facebook for Facebook login and only update app_id and client_token in your project.
-- For Android:
-    - Update facebook_app_id and facebook_client_token in /android/app/src/main/res/values/strings.xml  file.
-- For iOS:
-    - Configure Info.plist (ios/Runner/Info.plist) file and update APP_ID and CLIENT_TOKEN.
+## ⚡ **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,django,nodejs,spring,aws,docker,mysql,git,figma" />
+</p>
 
-### Application structure
+---
 
-After successful build, your application structure should look like this:
+## 📚 **Projects**
+🚀 **[Smart System for Dambulla Economic Center](#)** *(Ongoing)*  
+🎭 **[Mood Detection & Counseling App](#)** *(Top 10 TADHack Global 🇱🇰)*  
+🌱 **[Smart Agricultural Support System](#)** *(2024)*  
 
-```
-.
-├── android                         - It contains files required to run the application on an Android platform.
-├── assets                          - It contains all images and fonts of your application.
-├── ios                             - It contains files required to run the application on an iOS platform.
-├── lib                             - Most important folder in the application, used to write most of the Dart code..
-    ├── main.dart                   - Starting point of the application
-    ├── core
-    │   ├── app_export.dart         - It contains commonly used file imports
-    │   ├── constants               - It contains all constants classes
-    │   ├── errors                  - It contains error handling classes                  
-    │   ├── network                 - It contains network-related classes
-    │   └── utils                   - It contains common files and utilities of the application
-    ├── data
-    │   ├── apiClient               - It contains API calling methods 
-    │   ├── models                  - It contains request/response models 
-    │   └── repository              - Network repository
-    ├── localization                - It contains localization classes
-    ├── presentation                - It contains widgets of the screens with their controllers and the models of the whole application.
-    ├── routes                      - It contains all the routes of the application
-    └── theme                       - It contains app theme and decoration classes
-    └── widgets                     - It contains all custom widget classes
-```
+---
 
-### How to format your code?
+## 🌟 **Visitors Counter**
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{RashenThemiya}/count.svg">
+</p>
 
-- if your code is not formatted then run following command in your terminal to format code
-  ```
-  dart format .
-  ```
+---
 
-### How you can improve code readability?
+## 💬 **Let's Connect!**
+<p align="center">
+  <a href="mailto:rashenrashen4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/RashenThemiya"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rashenthemiya-2b0298249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://rashen.zapto.org/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=Firefox&logoColor=white"></a>
+</p>
 
-Resolve the errors and warnings that are shown in the application.
+---
 
-### Libraries and tools used
+🔥 *"Transforming Ideas into Reality with Code!"* 🚀
 
-- get - State management
-  https://pub.dev/packages/get
-- connectivity_plus - For status of network connectivity
-  https://pub.dev/packages/connectivity_plus
-- shared_preferences - Provide persistent storage for simple data
-  https://pub.dev/packages/shared_preferences
-- cached_network_image - For storing internet image into cache
-  https://pub.dev/packages/cached_network_image
-
-### Support
-
-If you have any problems or questions, go to our Discord channel, where we will help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
