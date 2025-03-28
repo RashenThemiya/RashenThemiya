@@ -27,7 +27,8 @@
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RashenThemiya&show_icons=true&theme=radical" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashenThemiya&theme=dark" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=RashenThemiya&show_icons=true&theme=radical">
+
 </p>
 
 ---
